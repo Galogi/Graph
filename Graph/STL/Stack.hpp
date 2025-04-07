@@ -1,3 +1,4 @@
+// Author: galogimaymon@gmail.com
 #ifndef STACK_H
 #define STACK_H
 
