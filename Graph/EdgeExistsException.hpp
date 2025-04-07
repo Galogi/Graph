@@ -2,7 +2,11 @@
 #define EDGE_EXISTS_EXCEPTION_H
 
 #include <string>
-
+/**
+ * @file EdgeExistsException.hpp
+ * @brief Custom exception for cases where an edge already exists in the graph.
+ * @author galogimaymon@gmail.com
+ */
 class EdgeExistsException {
     std::string message;
 
