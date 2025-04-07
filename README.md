@@ -1,5 +1,6 @@
 # Graph Project
 galogimaymon@gmail.com
+
 This project implements key graph algorithms and supporting data structures in modern C++ .  
 It includes manual implementations (without STL) of BFS, DFS, Dijkstra, Prim, and Kruskal algorithms, as well as data structures such as Queue, Stack, Union-Find, and Priority Queue.
 
