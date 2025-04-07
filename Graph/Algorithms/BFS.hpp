@@ -5,6 +5,7 @@
  * @file BFS.hpp
  * @brief Interface for the Breadth-First Search (BFS) algorithm on a graph.
  */
+// Author: galogimaymon@gmail.com
 
 namespace graph {
 
