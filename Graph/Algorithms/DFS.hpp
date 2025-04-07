@@ -5,6 +5,7 @@
  * @file DFS.hpp
  * @brief Interface for the Depth-First Search (DFS) algorithm and graph connectivity check.
  */
+// Author: galogimaymon@gmail.com
 
 namespace graph {
 
