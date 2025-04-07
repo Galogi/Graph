@@ -1,3 +1,4 @@
+// Author: galogimaymon@gmail.com
 #ifndef QUEUE_H
 #define QUEUE_H
 
