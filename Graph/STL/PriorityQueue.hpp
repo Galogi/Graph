@@ -1,3 +1,4 @@
+// Author: galogimaymon@gmail.com
 #ifndef PRIORITYQUEUE_HPP
 #define PRIORITYQUEUE_HPP
 
